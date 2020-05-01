@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Luca</strong> Magri
-description: Politecnico di Milano <br> <a href="https://www.deib.polimi.it/ita/home">Dipartimento di Elettronica Informazione Bioingegneria</a> <br> 
+description:  Research assistant, contract professor
 
 profile:
   align: right
@@ -13,10 +13,14 @@ news: true
 social: true
 ---
 
+* Politecnico di Milano, <br> <a href="https://www.deib.polimi.it/ita/home">Dipartimento di Elettronica Informazione Bioingegneria</a> <br>
+Via Ponzio 34/5,<br>
+20133 Milano, Italia [map](https://www.deib.polimi.it/eng/how-to-reach-us)
+
+* Office location: Campus: Building 21, Floor: 1°, Office: 022
+
+* E-mail: name.surname@polimi.it
+
+A biosketch...
 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
