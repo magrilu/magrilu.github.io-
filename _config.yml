@@ -4,7 +4,7 @@
 name: Luca Magri
 email: you@example.com
 description: > # this means to ignore newlines until "url:"
-  Personal research site on Computer Vision and Pattern Recognition.
+  Personal page.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -43,8 +43,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: blog
-blog_description: a simple whitespace theme for academics
+blog_name: misc
+blog_description: notes and miscellanea
 
 # Pagination
 paginate: 4
@@ -104,7 +104,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Magri
 
   style: apa
   locale: en

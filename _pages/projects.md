@@ -78,6 +78,7 @@ fitting multiple instances of parametric models to data corrputed by noise and o
 <div class="project" >
 </div>
 
+<!--
 <div  style="margin-top:50px">
 Many tasks in empirical sciences, including Computer Vision, can be formulated in terms of robust estimation of multiple parametric models that fit data corrupted by noise and outliers (e.g. two view segmentation, primitive fitting)
 This is a thorny “chicken-&-egg dilemma”: to estimate models one needs to first partition the data, and to partition the data it is necessary to know which model points belong to. According to which horn of this dilemma is addressed first, two main approaches can be singled out, namely consensus and preference analysis.
@@ -95,9 +96,10 @@ Following the way of spectral clustering,[5] studies the connections of this alg
 
 #### References
 
+* 
 *
 *
-*
+-->
 
 <!--
 
