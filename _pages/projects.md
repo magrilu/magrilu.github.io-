@@ -52,7 +52,7 @@ fitting multiple instances of parametric models to data corrputed by noise and o
 <div class="project ">
     <div class="thumbnail">
         <a href="http://www.diegm.uniud.it/fusiello/demo/scan2bim/">
-         <img alt="" src="../assets/img/thumbnailMinHash.png" style="margin-left: auto;margin-right: auto; width: 95%;height:95%;" />
+         <img alt="" src="../assets/img/thumbnailMinhash.png" style="margin-left: auto;margin-right: auto; width: 95%;height:95%;" />
         <span>
             <p>J-linlkage with min-hash for scan2bim</p>
         </span>
