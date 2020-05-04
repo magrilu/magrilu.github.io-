@@ -44,7 +44,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: misc
-blog_description: notes and miscellanea
+blog_description:
 
 # Pagination
 paginate: 4
@@ -57,7 +57,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: lm # put your disqus shortname
 
 # Optional features
 show_social_icons:  false
@@ -104,7 +104,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Magri
+  last_name: 
 
   style: apa
   locale: en

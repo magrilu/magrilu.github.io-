@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: under construction!
 ---
 
-## courses
+### courses
 ***
-## thesis
+### thesis
 
 ***
