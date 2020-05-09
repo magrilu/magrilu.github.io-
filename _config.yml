@@ -4,9 +4,9 @@
 name: Luca Magri
 email: you@example.com
 description: > # this means to ignore newlines until "url:"
-  Personal page.
+  Luca Magri's personal page: computer vision and pattern recognition
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:  # the base hostname & protocol for your site

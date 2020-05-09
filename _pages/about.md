@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Luca Magri
-description:  Research assistant, contract professor
+description:  Postdoctoral researcher
 
 profile:
   align: right
